@@ -1,0 +1,32 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgba(192, 235, 235, 0.541);
+}
+img{
+    width: 120px;
+}
+.body{
+    padding: 1cm;
+    margin: 2cm;
+    border: auto;
+    border:  solid rgb(0, 0, 0);
+   box-shadow: .2cm;
+    
+    margin-top: 1cm;
+    
+    margin-bottom: 2cm;
+}
+form{
+    text-align: center;
+    box-shadow: .1cm;
+    
+}
+button{
+ background-color:rgb(202, 216, 213);
+ 
+}
+select{
+    margin-bottom: 0.5cm;
+}
